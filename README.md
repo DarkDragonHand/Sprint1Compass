@@ -67,3 +67,6 @@ Passo 6: Selecionar o plugin Flutter, baixar e instalar;
 Passo 7: Ir na aba "Projects" e selecionar a opção "New Flutter Project";
 Passo 8: Preencha o nome do projeto e as opções de criação abaixo;
 Passo 9: Clicar em Finish.
+
+17 - Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
+R: IntelliJ, Android Studio e Visual Studio Code.
