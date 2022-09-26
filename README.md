@@ -52,3 +52,6 @@ R:
 
 14 - O que é a linguagem de programação Dart?
 R: É uma linguagem de programação orientada a objetos criada pela Google para criação de programas/aplicações Desktop, Web e Mobile.
+
+15 - O que é o Flutter?
+R: É um Framework que possui uma linguagem própria para desenvolvimento de Widgets tendo como usa como base a linguagem Dart para desenvolvimento de aplicativos mobile.
