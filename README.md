@@ -73,3 +73,6 @@ R: IntelliJ, Android Studio e Visual Studio Code.
 
 18 - Qual a diferença entre uma variavel final e uma variavel var?
 R: A variável var pode receber qualquer tipo de valor, enquanto que a final recebe o primeiro valor atribuido e não pode mais ser alterado nas proximas vezes que utilizar.
+
+19 - Qual a diferença entre um Statefull e Stateless widget?
+R: StatelessWidget é quando os Widgets por configuração se tornam estáticos em uma tela, não podendo ser alterados os valores. Por sua vez o StatefullWidget é quando permite que os Widgets na tela atualizem com novos valores.
