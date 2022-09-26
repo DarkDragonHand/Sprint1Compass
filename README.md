@@ -86,3 +86,7 @@ Se essas informações mudarem, o Flutter precisará ser notificado que houve um
 21 - Qual a finalidade dos métodos initState e dispose?
 R: InitState é quando é chamado apenas 1 unica vez na criação do Widget;
    Dispose é quando o widget for removido.
+
+22 - Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @Flutter-set.22 e quais suas expectativas a partir de agora:
+R: Foi muito boa pra mim, por mais que houve poucas questões acima que não estava incluso nos estudos na Sprint 1, foi importante e didádico, além de estudar novamente sobre Dart, Flutter e Git.
+Minhas expectativas é continuar a aprender e evoluir como programador na Sprint 2.
