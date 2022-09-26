@@ -32,3 +32,6 @@ R: git pull "repositório" "branch";
 
 9 - Qual a diferença entre git e github? 
 R: O Git é uma ferramenta de controlamento de versões, enquanto que o GitHub é uma plataforma que fornece serviços com o Git, como repositórios remotos e compartilhamento de códigos e programas/aplicações.
+
+10 - Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.
+R: Put e Post. O Put é usado para criar ou editar um recurso, enquanto que o POST pode ser utilizado para qualquer coisa.
