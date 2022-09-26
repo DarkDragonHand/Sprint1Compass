@@ -38,3 +38,6 @@ R: Put e Post. O Put é usado para criar ou editar um recurso, enquanto que o PO
 
 11 - Qual o status code que pode ser usado na criação de um novo usuário? 
 R: Status Code 201.
+
+12 - Quais são os três status code que podem ser utilizados para realizar o delete? 
+R: Status code 200, 202 e 204.
