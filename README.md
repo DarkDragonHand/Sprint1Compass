@@ -29,3 +29,6 @@ R: É a ramificação ou "galho" principal onde está armazenado a criação do 
 8 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
 R: git pull "repositório" "branch";
    git merge "branch";
+
+9 - Qual a diferença entre git e github? 
+R: O Git é uma ferramenta de controlamento de versões, enquanto que o GitHub é uma plataforma que fornece serviços com o Git, como repositórios remotos e compartilhamento de códigos e programas/aplicações.
