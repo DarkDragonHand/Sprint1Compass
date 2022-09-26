@@ -25,3 +25,7 @@ R: git add "nome do arquivo".
 
 7 - O que é a Branch master e para que serve?
 R: É a ramificação ou "galho" principal onde está armazenado a criação do programa/aplicação em sua versão com as alterações funcionais e finais de acordo com a proposta do cliente.
+
+8 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
+R: git pull "repositório" "branch";
+   git merge "branch";
