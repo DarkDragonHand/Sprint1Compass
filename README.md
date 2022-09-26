@@ -16,3 +16,6 @@ Participar das Reuniões;
 Tirar dúvidas dos desenvolvedores ou indicar quem poderia responde-las melhor;
 Deixar claro para o time qual a valor de negócios de cada Sprint;
 Obter feedback e expectativas dos clientes.
+
+5 - Qual o comando para criação de um novo repositório no Git? 
+R: git init.
