@@ -49,3 +49,6 @@ R:
 3xx: Mensagens de redirecionamento;
 4xx: Ocorreu algum erro na operação;
 5xx: Ocorreu um erro internamente no servidor;
+
+14 - O que é a linguagem de programação Dart?
+R: É uma linguagem de programação orientada a objetos criada pela Google para criação de programas/aplicações Desktop, Web e Mobile.
