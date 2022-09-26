@@ -8,3 +8,11 @@ R: Consiste em criação de Time-Boxes chamadas Sprints, que são caixas de temp
 
 3 - O que é Git? 
 R: É um sistema controlador de versões de programas e aplicações.
+
+4 - O que é um scrum Product Owner? 
+R: É o integrante da equipe de trabalho que terá contato com o cliente para obter informações sobre o produto, responsável por:
+
+Participar das Reuniões;
+Tirar dúvidas dos desenvolvedores ou indicar quem poderia responde-las melhor;
+Deixar claro para o time qual a valor de negócios de cada Sprint;
+Obter feedback e expectativas dos clientes.
