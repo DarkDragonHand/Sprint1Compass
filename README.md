@@ -81,3 +81,8 @@ R: StatelessWidget é quando os Widgets por configuração se tornam estáticos 
 R: Serve para obtenção de dados para transformar o estado da sua aplicação. O Flutter vai "desenhar" a tela e vai tentar fazer isso apenas uma vez para economizar processamento. 
 Para muitas aplicações, irá precisar de informações vindas de algum lugar como por exemplo uma API e normalmente essas informações podem não ser estáticas.
 Se essas informações mudarem, o Flutter precisará ser notificado que houve uma mudança para poder desenhar novamente essa parte da tela.
+
+
+21 - Qual a finalidade dos métodos initState e dispose?
+R: InitState é quando é chamado apenas 1 unica vez na criação do Widget;
+   Dispose é quando o widget for removido.
