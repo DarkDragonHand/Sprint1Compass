@@ -70,3 +70,6 @@ Passo 9: Clicar em Finish.
 
 17 - Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
 R: IntelliJ, Android Studio e Visual Studio Code.
+
+18 - Qual a diferença entre uma variavel final e uma variavel var?
+R: A variável var pode receber qualquer tipo de valor, enquanto que a final recebe o primeiro valor atribuido e não pode mais ser alterado nas proximas vezes que utilizar.
