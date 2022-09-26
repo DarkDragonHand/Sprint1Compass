@@ -35,3 +35,6 @@ R: O Git é uma ferramenta de controlamento de versões, enquanto que o GitHub �
 
 10 - Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.
 R: Put e Post. O Put é usado para criar ou editar um recurso, enquanto que o POST pode ser utilizado para qualquer coisa.
+
+11 - Qual o status code que pode ser usado na criação de um novo usuário? 
+R: Status Code 201.
