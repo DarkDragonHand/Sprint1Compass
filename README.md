@@ -55,3 +55,15 @@ R: É uma linguagem de programação orientada a objetos criada pela Google para
 
 15 - O que é o Flutter?
 R: É um Framework que possui uma linguagem própria para desenvolvimento de Widgets tendo como usa como base a linguagem Dart para desenvolvimento de aplicativos mobile.
+
+16 - Como inicio um novo projeto com Flutter?
+R: Existe várias formas de criar um novo projeto, como por exemplo utilizando as IDEs IntelliJ, Android Studio e Visual Studio Code:
+Passo 1: Acessar o site oficial do Flutter;
+Passo 2: Clicar em "Get Started";
+Passo 3: Fazer o download do Flutter da versão do seu sistema operacional e instalar;
+Passo 4: Depois de instalar, utilizar uma das IDEs listados acima para criar um projeto em Flutter;
+Passo 5: Usando como base o IntelliJ, dentro dele haverá um plugin na aba de busca de plugins para instalação do Flutter;
+Passo 6: Selecionar o plugin Flutter, baixar e instalar;
+Passo 7: Ir na aba "Projects" e selecionar a opção "New Flutter Project";
+Passo 8: Preencha o nome do projeto e as opções de criação abaixo;
+Passo 9: Clicar em Finish.
