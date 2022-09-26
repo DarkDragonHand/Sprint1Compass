@@ -76,3 +76,8 @@ R: A variável var pode receber qualquer tipo de valor, enquanto que a final rec
 
 19 - Qual a diferença entre um Statefull e Stateless widget?
 R: StatelessWidget é quando os Widgets por configuração se tornam estáticos em uma tela, não podendo ser alterados os valores. Por sua vez o StatefullWidget é quando permite que os Widgets na tela atualizem com novos valores.
+
+20 - Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
+R: Serve para obtenção de dados para transformar o estado da sua aplicação. O Flutter vai "desenhar" a tela e vai tentar fazer isso apenas uma vez para economizar processamento. 
+Para muitas aplicações, irá precisar de informações vindas de algum lugar como por exemplo uma API e normalmente essas informações podem não ser estáticas.
+Se essas informações mudarem, o Flutter precisará ser notificado que houve uma mudança para poder desenhar novamente essa parte da tela.
