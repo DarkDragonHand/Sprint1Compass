@@ -41,3 +41,11 @@ R: Status Code 201.
 
 12 - Quais são os três status code que podem ser utilizados para realizar o delete? 
 R: Status code 200, 202 e 204.
+
+13 - Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
+R: 
+1xx: Informação de respostas;
+2xx: Operação sucedida;
+3xx: Mensagens de redirecionamento;
+4xx: Ocorreu algum erro na operação;
+5xx: Ocorreu um erro internamente no servidor;
