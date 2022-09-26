@@ -22,3 +22,6 @@ R: git init.
 
 6 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?
 R: git add "nome do arquivo".
+
+7 - O que é a Branch master e para que serve?
+R: É a ramificação ou "galho" principal onde está armazenado a criação do programa/aplicação em sua versão com as alterações funcionais e finais de acordo com a proposta do cliente.
